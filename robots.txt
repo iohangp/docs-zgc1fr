@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iohangp.github.io/docs-zgc1fr/sitemap.xml
